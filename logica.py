@@ -26,12 +26,12 @@ acciones.append("Retirar")
 "Usuario2".append("12345")
 "Usuario2".append(1500)
 
-def registrar()
+def registrar() :
     UsuarioRegistrado= list()
     usuarioc =input("Ingrese su nombre: ")
     UsuarioRegistrado.append("Ingrese su password")
 
-    if "usuarioc" ==[0] and UsuarioRegistrado[0] == Usuario[1]
+    if "usuarioc" ==[0] and UsuarioRegistrado[0] == Usuario[1] :
        print("Bienvenido al cajero automatico")
     else:
         print("Usuario o contraseña incorrecta")
