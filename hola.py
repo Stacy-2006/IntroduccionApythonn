@@ -10,4 +10,4 @@ numero2 = "10"
 total = numero + int (numero2)
 print(type(total))
 print(type(numero2))
-print(type("numero 3"))
+print(type(numero3))
